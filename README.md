@@ -32,7 +32,6 @@ We will covering each and every Research Paper using 10 step framework —
 | Paper Name | Summarized and Simplified Version |
 | --- | --- |
 |  |  |
-
 |  |  |
 
 --------------
