@@ -3,7 +3,7 @@ This repository contains everything you need to become proficient in ML/AI Resea
 
 We will covering each and every Research Paper using 10 step framework —
 
-1.Research Paper Name and Authors
+1. Research Paper Name and Authors
 
 2. Area and field of research
 
