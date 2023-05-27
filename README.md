@@ -29,7 +29,7 @@ We will covering each and every Research Paper using 10 step framework —
 
 # NLP Research Papers
 
-| Paper Name | Summarized and Simplified Version |
+| Paper Name | Simplified/Summarized Version |
 | --- | --- |
 | Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd) |
 | Bag of Tricks for Efficient Text Classification | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd) |
