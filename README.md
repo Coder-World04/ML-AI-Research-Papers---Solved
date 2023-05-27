@@ -33,7 +33,7 @@ We will covering each and every Research Paper using 10 step framework —
 | --- | --- |
 | Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd) |
 | Bag of Tricks for Efficient Text Classification | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd) |
-|Visualizing Linguistic Diversity of Text Datasets Synthesized by Large Language Models||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Visualizing Linguistic Diversity of Text Datasets Synthesized by Large Language Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd) |
 |(QA)²: Question Answering with Questionable Assumptions||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |QueryForm: A Simple Zero-shot Form Entity Query Framework||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |Semi-supervised Sequence Learning||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
