@@ -5,27 +5,28 @@ Link - [Complete ML Research Papers Summarized Series](https://medium.com/coders
 
 We will covering each and every Research Paper using 10 step framework —
 
-1. Research Paper Name and Authors
+1. [Research Paper Name and Authors](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-2. Area and field of research
+2. [Area and field of research ](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-3. Main Contributions
+3. [Main Contributions](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-4. Main Results
+4.[ Main Results](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-5. Main Findings
+5.[ Main Findings](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-6. Opportunities
+6. [Opportunities](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-7. Future Research
+7. [Future Research](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-8. Future Projects
+8. [Future Projects](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-9. Code and Results
+9. [Code and Results](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-10. Link to the Research Paper
+10. [Link to the Research Paper](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
--------------
+--------------
+
 # Must know concepts before you dive in the research papers —
 | Model Name                            | Link                                                                                              |
 |---------------------------------------|--------------------------------------------------------------------------------------------------|
