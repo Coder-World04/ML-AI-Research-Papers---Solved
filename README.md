@@ -83,65 +83,7 @@ We will covering each and every Research Paper using 10 step framework —
 | Feature Tokenizer Transformer  | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)               |
 | Focal Loss (RetinaNet)         | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)               |
 
-
-
 ----
-
-* Transformer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* TransformerXL [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* VGG [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Mask RCNN [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Masked Autoencoder [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* BEiT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* BERT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* ColD Fusion [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* ConvMixer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Deep and Cross Network [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* DenseNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* DistilBERT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* DiT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* DocFormer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Donut [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* EfficientNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* ELMo [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Entity Embeddings [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* ERNIE-Layout [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* FastBERT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Fast RCNN [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Faster RCNN [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* MobileBERT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* MobileNetV1 [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* MobileNetV2 [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* MobileNetV3 [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* RCNN [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* ResNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* ResNext [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* SentenceBERT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Single Shot MultiBox Detector (SSD) [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* StructuralLM [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Swin Transformer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* TableNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* TabTransformer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Tabular ResNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* TinyBERT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Vision Transformer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Wide and Deep Learning [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Xception [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* XLNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* AlexNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* BART [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* InceptionNetV2 and InceptionNetV3 [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* InceptionNetV4 and InceptionResNet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Layout LM [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Layout LM v2 [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Layout LM v3 [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Lenet [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* LiLT [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Feature Pyramid Network [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Feature Tokenizer Transformer [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-* Focal Loss (RetinaNet) [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
-
-
 
 # NLP Research Papers
 
