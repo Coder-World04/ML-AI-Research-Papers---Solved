@@ -2,6 +2,7 @@
 This repository contains everything you need to become proficient in ML/AI Research and Research Papers
 
 ![FuSPZdvWYAImbnA](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved/assets/104568275/cb2c8cbc-af23-4205-963c-8a50ede4fa5a)
+
 Pic credits : ResearchGate
 
 Link - [Complete ML Research Papers Summarized Series](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
