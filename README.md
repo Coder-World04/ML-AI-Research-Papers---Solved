@@ -121,8 +121,7 @@ We will covering each and every Research Paper using 10 step framework —
 |CodeT5+: Open Code Large Language Models for Code Understanding and Generation|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |Unlimiformer: Long-Range Transformers with Unlimited Length Input|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-|PaLM: Scaling Language Modeling with Pathways
-|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|PaLM: Scaling Language Modeling with Pathways|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |Attention Is All You Need|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |Denoising Diffusion Probabilistic Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |ZeRO: Memory Optimizations Toward Training Trillion Parameter Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
