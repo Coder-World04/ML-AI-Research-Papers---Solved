@@ -113,48 +113,36 @@ We will covering each and every Research Paper using 10 step framework —
 |Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
 |Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
-||[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|LIMA: Less Is More for Alignment|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Efficient Neural Architecture Search via Parameter Sharing|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Tree of Thoughts: Deliberate Problem Solving with Large Language Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|CodeT5+: Open Code Large Language Models for Code Understanding and Generation|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Unlimiformer: Long-Range Transformers with Unlimited Length Input|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|PaLM: Scaling Language Modeling with Pathways
+|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Attention Is All You Need|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Denoising Diffusion Probabilistic Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|ZeRO: Memory Optimizations Toward Training Trillion Parameter Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Wide Residual Networks|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|STaR: Bootstrapping Reasoning With Reasoning|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Meta-Gradient Reinforcement Learning|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Distilling the Knowledge in a Neural Network|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|How to Fine-Tune BERT for Text Classification?|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Primer: Searching for Efficient Transformers for Language Modeling|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Training Compute-Optimal Large Language Models|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|Learning Transferable Visual Models From Natural Language Supervision|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|More Coming soon| |
+
 --------------
 
 # CV Research Papers
 
 | Paper Name | Summarized and Simplified Version |
 | --- | --- |
-| |  |
-|  |  |
+|NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis|[Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)|
+|More Coming Soon| |
 
