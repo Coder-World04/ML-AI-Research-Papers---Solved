@@ -1,5 +1,5 @@
 # ML/AI Research Papers Solved
-This repository contains everything you need to become proficient in ML/AI Research and Research Papers .
+This repository contains everything you need to become proficient in ML/AI Research and Research Papers.
 
 ![FuSPZdvWYAImbnA](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved/assets/104568275/cb2c8cbc-af23-4205-963c-8a50ede4fa5a)
 
