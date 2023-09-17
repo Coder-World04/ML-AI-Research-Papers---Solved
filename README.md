@@ -34,7 +34,7 @@ We will covering each and every Research Paper using 10 step framework —
 
 ---------------
 
-# Must know concepts before you dive in the research papers —
+# Must know concepts before you dive in the research papers—
 | Model Name                            | Link                                                                                              |
 |---------------------------------------|--------------------------------------------------------------------------------------------------|
 | Transformer                           | [Link](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd) |
