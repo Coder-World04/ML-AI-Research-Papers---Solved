@@ -8,6 +8,13 @@ This repository contains everything you need to become proficient in ML/AI Resea
 
 Pic credits:ResearchGate
 
+[Complete Cheat Sheet for Tech Interviews - How to prepare efficiently](https://open.substack.com/pub/naina0405/p/cheat-sheet-for-tech-interviews-how-339?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[I took theses Projects Based Courses to Build Industry aligned Data Science and ML skills](https://open.substack.com/pub/naina0405/p/i-took-theses-projects-based-courses-af3?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+[Part 1 - How to solve Any ML System Design Problem](https://open.substack.com/pub/naina0405/p/part-1-how-to-solve-any-ml-system?r=14q3sp&utm_campaign=post&utm_medium=web)
+
+
 Link - [Complete ML Research Papers Summarized Series](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
 We will covering each and every Research Paper using 10 step framework—
