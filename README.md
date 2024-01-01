@@ -17,7 +17,7 @@ Pic credits:ResearchGate
 
 Link - [Complete ML Research Papers Summarized Series](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
-We will covering each and every Research Paper using 10 step framework—
+We will covering each and every Research Paper using 10 step framework —
 
 1. [Research Paper Name and Authors](https://medium.com/coders-mojo/complete-ml-research-papers-summarized-a69afd5bb9bf?sk=54dcfdc31cf7c959192ebf666ca24cdd)
 
