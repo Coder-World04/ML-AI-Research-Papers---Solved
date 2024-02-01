@@ -6,7 +6,7 @@ This repository contains everything you need to become proficient in ML/AI Resea
 
 ![FuSPZdvWYAImbnA](https://github.com/Coder-World04/ML-AI-Research-Papers---Solved/assets/104568275/cb2c8cbc-af23-4205-963c-8a50ede4fa5a)
 
-Pic credits:ResearchGate
+Pic credits: ResearchGate
 
 Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
 
