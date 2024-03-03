@@ -1,5 +1,5 @@
 # ML/AI Research Papers Solved
-This repository contains everything you need to become proficient in ML/AI Research and Research Papers .
+This repository contains everything you need to become proficient in ML/AI Research and Research Papers.
 
 [How to Make Best Use of ML/DL Research Papers?](https://open.substack.com/pub/naina0405/p/how-to-make-best-use-of-mldl-research?r=14q3sp&utm_campaign=post&utm_medium=web)
 
